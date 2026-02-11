@@ -30,8 +30,8 @@ house_price_prediction/
 1️⃣ Clone the repository
 Bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sakshirakate11/.git
+cd your-repo-name house_price_prediction
 2️⃣ Create virtual environment (optional but recommended)
 Bash
 Copy code
@@ -40,7 +40,7 @@ venv\Scripts\activate
 3️⃣ Install dependencies
 Bash
 Copy code
-pip install flask pandas numpy scikit-learn
+pip install flask package scikit-learn
 4️⃣ Run the application
 Bash
 Copy code
